@@ -101,13 +101,13 @@ npm run build
 - [x] Conception
   - [x] Wireframes
   - [x] Mockups
-- [] Frontend interface
+- [ ] Frontend interface
   - [x] Create all pages
   - [x] Add responsive design
   - [x] Redirect routes for hosting (add .htaccess file)
-  - [] Add burger button to responsive navbar
-  - [] Create contact form
-  - [] Add modal to display pictures
+  - [ ] Add burger button to responsive navbar
+  - [ ] Create contact form
+  - [ ] Add modal to display pictures
 
 
 ## Contact
